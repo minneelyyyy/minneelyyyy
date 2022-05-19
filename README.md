@@ -1,11 +1,11 @@
 ### Hi there! I'm minneelyyyy 👋
 
-My favorite projects:
+#### My favorite projects:
  - [C-Tutorial](https://github.com/minneelyyyy/C-Tutorial)
  - [libminc](https://github.com/minneelyyyy/libminc)
  - [minutils](https://github.com/minneelyyyy/minutils)
 
-Future ideas:
+#### Future ideas:
  - An operating system
  - Database program
  - Archive file format
