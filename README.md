@@ -11,6 +11,7 @@ I am a software developer interested in low level programming. My favorite langu
  - An operating system
  - Database program
  - Archive file format
+ - An sh inspired shell
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=minneelyyyy)](https://github.com/anuraghazra/github-readme-stats)
 
