@@ -1,9 +1,9 @@
 ### Hi there! I'm minneelyyyy 👋
 
 My favorite projects:
+ - [C-Tutorial](https://github.com/minneelyyyy/C-Tutorial)
  - [libminc](https://github.com/minneelyyyy/libminc)
  - [minutils](https://github.com/minneelyyyy/minutils)
- - [C-Tutorial](https://github.com/minneelyyyy/C-Tutorial)
 
 Future ideas:
  - An operating system
