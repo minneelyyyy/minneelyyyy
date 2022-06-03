@@ -7,7 +7,6 @@ I love Unix and I try to make my projects Unix friendly. I use Debian 11.
 #### My favorite projects:
  - [C-Tutorial](https://github.com/minneelyyyy/C-Tutorial)
  - [libminc](https://github.com/minneelyyyy/libminc)
- - [minutils](https://github.com/minneelyyyy/minutils)
 
 #### Future ideas:
  - An operating system
