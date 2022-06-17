@@ -13,6 +13,7 @@ I love Unix and I try to make my projects Unix friendly. I use Debian 11.
  - Database program
  - Archive file format
  - An sh inspired shell
+ - an x86-64 assembler
  - A programming language
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=minneelyyyy)](https://github.com/anuraghazra/github-readme-stats)
