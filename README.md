@@ -13,7 +13,7 @@ I love Unix and I try to make my projects Unix friendly. I use Debian 11.
  - Database program
  - Archive file format
  - An sh inspired shell
- - a terminal calculator
+ - a terminal calculator, with a graphing calculator
  - An x86-64 assembler
  - A programming language
 
