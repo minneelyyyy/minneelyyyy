@@ -14,6 +14,7 @@ I love Unix and I try to make my projects Unix friendly. I use Debian 11.
  - Archive file format
  - An sh inspired shell
  - a terminal calculator, with a graphing calculator
+ - an internet file transfer program
  - An x86-64 assembler
  - A programming language
 
