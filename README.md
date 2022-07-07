@@ -4,15 +4,13 @@ I am a software developer interested in low level programming. My favorite langu
 
 I love Unix and I try to make my projects Unix friendly. I use Debian 11.
 
-#### My favorite projects:
- - [C-Tutorial](https://github.com/minneelyyyy/C-Tutorial)
- - [libminc](https://github.com/minneelyyyy/libminc)
-
-#### Future ideas:
- - An operating system
+#### Projects and Ideasa:
+ - [A C Tutorial](https://github.com/minneelyyyy/C-Tutorial)
+ - [A standard library for C](https://github.com/minneelyyyy/libminc)
+ - [An operating system](https://github.com/minneelyyyy/MinOS)
  - Database program
  - Archive file format
- - An sh inspired shell
+ - [An sh inspired shell](https://github.com/minneelyyyy/taco)
  - a terminal calculator, with a graphing calculator
  - an internet file transfer program
  - a cargo style build system for C projects
