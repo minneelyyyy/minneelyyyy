@@ -16,7 +16,7 @@ I love Unix and I try to make my projects Unix friendly. I use Debian 11.
  - a terminal calculator, with a graphing calculator
  - an internet file transfer program
  - a cargo style build system for C projects
- - An x86-64 assembler
+ - An x86-64 assembler, and disassembler
  - A programming language
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=minneelyyyy)](https://github.com/anuraghazra/github-readme-stats)
